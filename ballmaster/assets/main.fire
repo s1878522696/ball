@@ -186,7 +186,7 @@
       "array": [
         0,
         0,
-        426.9505240657283,
+        337.7499074759311,
         0,
         0,
         0,
@@ -793,7 +793,9 @@
       "__id__": 10
     },
     "_enabled": true,
-    "_normalMaterial": null,
+    "_normalMaterial": {
+      "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+    },
     "_grayMaterial": null,
     "duration": 0.1,
     "zoomScale": 1.2,
@@ -1207,7 +1209,9 @@
       "__id__": 19
     },
     "_enabled": true,
-    "_normalMaterial": null,
+    "_normalMaterial": {
+      "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+    },
     "_grayMaterial": null,
     "duration": 0.1,
     "zoomScale": 1.2,
